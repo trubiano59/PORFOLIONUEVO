@@ -5,9 +5,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { AcercademiComponent } from './acercademi/acercademi.component';
 import { BannerComponent } from './banner/banner.component';
-import { EducacionComponent } from './educacion/educacion.component';
-import { ExperienciaComponent } from './experiencia/experiencia.component';
-import { InteresesComponent } from './intereses/intereses.component';
 import { LoginComponent } from './login/login.component';
 import { MainComponent } from './main/main.component';
 import { ModalloginComponent } from './modallogin/modallogin.component';
@@ -18,15 +15,16 @@ import { SkillsComponent } from './skills/skills.component';
 import { WorkComponent } from './work/work.component';
 import { IndexComponent } from './index/index.component';
 import { AwardsComponent } from './awards/awards.component';
+import { EducationComponent } from './education/education.component';
+import { ErrorComponent } from './error/error.component';
+import { ExperienceComponent } from './experience/experience.component';
+import { InterestsComponent } from './interests/interests.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AcercademiComponent,
     BannerComponent,
-    EducacionComponent,
-    ExperienciaComponent,
-    InteresesComponent,
     LoginComponent,
     MainComponent,
     ModalloginComponent,
@@ -36,7 +34,11 @@ import { AwardsComponent } from './awards/awards.component';
     SkillsComponent,
     WorkComponent,
     IndexComponent,
-    AwardsComponent
+    AwardsComponent,
+    EducationComponent,
+    ErrorComponent,
+    ExperienceComponent,
+    InterestsComponent
   ],
   imports: [
     BrowserModule,
