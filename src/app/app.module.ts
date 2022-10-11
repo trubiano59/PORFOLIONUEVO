@@ -19,6 +19,7 @@ import { IndexComponent } from './index/index.component';
 import { MainComponent } from './main/main.component';
 import { AcercademiComponent } from './acercademi/acercademi.component';
 import { ErrorComponent } from './error/error.component';
+import { ServiciosComponent } from './servicios/servicios.component';
 
 
 
@@ -43,6 +44,7 @@ import { ErrorComponent } from './error/error.component';
     ErrorComponent,
     MainComponent,
     AcercademiComponent,
+    ServiciosComponent,
 
   ],
   
