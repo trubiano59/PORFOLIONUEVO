@@ -40,10 +40,7 @@ import { ErrorComponent } from './error/error.component';
     AwardsComponent,
     WorkComponent,
     ProyectosComponent,
-    
     ErrorComponent,
-   
-   
     MainComponent,
     AcercademiComponent,
 
