@@ -8,3 +8,15 @@ button.btn.btnLogin{
 .btn.btn-secondary{
     background-color: red;
 }
+button.btn.btnAgree{
+    background-color: green;
+}
+button.btn.btnMod{
+    background-color: skyblue;
+}
+button.btn.btnDelete{
+    background-color: crimson;
+}
+button.btn.btnCancel{
+    background-color: orange;
+}
