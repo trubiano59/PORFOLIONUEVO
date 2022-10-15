@@ -20,6 +20,9 @@ import { MainComponent } from './main/main.component';
 import { AcercademiComponent } from './acercademi/acercademi.component';
 import { ErrorComponent } from './error/error.component';
 import { ServiciosComponent } from './servicios/servicios.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
+import { NavbardashboardComponent } from './navbardashboard/navbardashboard.component';
+import { BotonlogoutComponent } from './botonlogout/botonlogout.component';
 
 
 
@@ -45,6 +48,9 @@ import { ServiciosComponent } from './servicios/servicios.component';
     MainComponent,
     AcercademiComponent,
     ServiciosComponent,
+    DashboardComponent,
+    NavbardashboardComponent,
+    BotonlogoutComponent,
 
   ],
   
