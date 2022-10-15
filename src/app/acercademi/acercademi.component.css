@@ -5,5 +5,7 @@
 button.btn.btnLogin{
     background-color: rgb(102, 102, 231);
 }
-
+.btn.btn-secondary{
+    background-color: red;
+}
 

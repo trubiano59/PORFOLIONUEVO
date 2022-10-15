@@ -2,3 +2,9 @@
 .conteEstudios{
     background-color: rgba(23, 145, 145, 0.623);
 }
+button.btn.btnLogin{
+    background-color: rgb(102, 102, 231);
+}
+.btn.btn-secondary{
+    background-color: red;
+}

@@ -12,3 +12,6 @@
 .conteDGE{
     background-color:rgba(23, 145, 145, 0.623);
 }
+.btn.btn-secondary{
+    background-color: red;
+}
