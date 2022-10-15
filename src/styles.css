@@ -249,10 +249,9 @@ main {
     bottom:50px;
 }
 
-
-
-
-
+.btn-secundary{
+    --bs-btn-bg: #c94b2e;
+}
 
 
 

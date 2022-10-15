@@ -5,3 +5,6 @@
 button.btn.btnLogin{
     background-color: rgb(102, 102, 231);
 }
+.btn-secundary{
+    --bs-btn-bg: #c94b2e;
+}
