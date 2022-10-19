@@ -102,6 +102,7 @@ section.panel{
     background-color: rgba(59, 68, 198, 0.898); 
 }
 
+
 /*sectión 2*/
 .conteExperiencia{
     background-color: rgba(23, 145, 145, 0.623);
@@ -125,6 +126,7 @@ h2 {
 .conteSkills{
     background-color: rgba(23, 145, 145, 0.623);
 }
+
 
 .conteTextoTer{
     background-color:rgba(23, 145, 145, 0.623);
@@ -188,6 +190,7 @@ meter
 
 }
 
+
 .scrollspy-example {
     position: relative;
     height: 200px;
@@ -201,6 +204,7 @@ meter
     padding:0;        
     background:linear-gradient(#3796d1,#bdced6);
 }
+
 
 
 main, div, a, span {
@@ -243,4 +247,3 @@ main {
     left:calc(50% - 110px);
     bottom:50px;
 }
-
