@@ -21,6 +21,13 @@ import { ServiciosComponent } from './servicios/servicios.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { NavbardashboardComponent } from './navbardashboard/navbardashboard.component';
 import { BotonlogoutComponent } from './botonlogout/botonlogout.component';
+import { AcercademidashboardComponent } from './acercademidashboard/acercademidashboard.component';
+import { EducationdashboardComponent } from './educationdashboard/educationdashboard.component';
+import { WorkdashboardComponent } from './workdashboard/workdashboard.component';
+import { SkillsdashboardComponent } from './skillsdashboard/skillsdashboard.component';
+import { ExperiencedashboardComponent } from './experiencedashboard/experiencedashboard.component';
+import { ProyectosdashboardComponent } from './proyectosdashboard/proyectosdashboard.component';
+import { BannerdashboardComponent } from './bannerdashboard/bannerdashboard.component';
 
 
 @NgModule({
@@ -45,6 +52,13 @@ import { BotonlogoutComponent } from './botonlogout/botonlogout.component';
     DashboardComponent,
     NavbardashboardComponent,
     BotonlogoutComponent,
+    AcercademidashboardComponent,
+    EducationdashboardComponent,
+    WorkdashboardComponent,
+    SkillsdashboardComponent,
+    ExperiencedashboardComponent,
+    ProyectosdashboardComponent,
+    BannerdashboardComponent,
 
   ],
   
