@@ -28,6 +28,8 @@ import { SkillsdashboardComponent } from './skillsdashboard/skillsdashboard.comp
 import { ExperiencedashboardComponent } from './experiencedashboard/experiencedashboard.component';
 import { ProyectosdashboardComponent } from './proyectosdashboard/proyectosdashboard.component';
 import { BannerdashboardComponent } from './bannerdashboard/bannerdashboard.component';
+import { AwardsdashboardComponent } from './awardsdashboard/awardsdashboard.component';
+import { InterestsdashboardComponent } from './interestsdashboard/interestsdashboard.component';
 
 
 @NgModule({
@@ -59,6 +61,8 @@ import { BannerdashboardComponent } from './bannerdashboard/bannerdashboard.comp
     ExperiencedashboardComponent,
     ProyectosdashboardComponent,
     BannerdashboardComponent,
+    AwardsdashboardComponent,
+    InterestsdashboardComponent,
 
   ],
   
