@@ -68,7 +68,8 @@
             "titulo2": "Desarrollador FullStack Estudiante de diseño web",
             "inicio": "18-05-2022",
             "fin": "15-01-2023",
-            "nivel": "Estudiante"
+            "nivel": "Estudiante",
+            "img":"assets/img/PROGRAMACIÓN.jpg"
         }
     ],
     "skills": [
@@ -166,8 +167,8 @@
             "titulo2": "TRABAJE COMO EMPLEADO DIRECCION GENERAL DE ESCUELAS",
             "inicio": "2001",
             "fin": "2018",
-            "texto": " Capacitación docentes en emprendedorismo, Otorgamiento de bonos de puntaje a docentes de primaria"
-            
+            "texto": " Capacitación docentes en emprendedorismo, Otorgamiento de bonos de puntaje a docentes de primaria",
+            "enlace":"assets/img/office-1246484__340.webp" 
             
         }
     ],
