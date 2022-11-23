@@ -2,7 +2,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpClientModule } from '@angular/common/http';
-
+import { AppRoutingModule } from './app-routing.module';
 //Importar los servicios
 //import { PorfolioService } from './servicios/porfolio.service'; Si lo ponemos asi tambien funciona
 
@@ -19,7 +19,6 @@ import { InterestsComponent } from './interests/interests.component';
 import { AwardsComponent } from './awards/awards.component';
 import { WorkComponent } from './work/work.component';
 import { ProyectosComponent } from './proyectos/proyectos.component';
-import { AppRoutingModule } from './app-routing.module';
 import { IndexComponent } from './index/index.component';
 import { MainComponent } from './main/main.component';
 import { AcercademiComponent } from './acercademi/acercademi.component';
