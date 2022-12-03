@@ -1,12 +1,3 @@
-/*redes*/    
-/*i.fa-brands.fa-facebook.fa-xl,
-i.fa-brands.fa-instagram.fa-xl,
-i.fa-brands.fa-linkedin.fa-xl,
-i.fa-brands.fa-github.fa-xl,
-i.fa-solid.fa-user.fa-xl{
-    color: #FFFFFF
-}*/
-
 .fa-brands.fa-envelope-o.fa-xl:hover{
     --bs-text-opacity: 1;
     color:yellowgreen !important
