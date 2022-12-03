@@ -33,8 +33,8 @@ import { ProyectosdashboardComponent } from './proyectosdashboard/proyectosdashb
 import { SkillsdashboardComponent } from './skillsdashboard/skillsdashboard.component';
 import { WorkdashboardComponent } from './workdashboard/workdashboard.component';
 import { BannerdashboardComponent } from './bannerdashboard/bannerdashboard.component';
-import { AwardsdashboardComponent } from './awardsdashboard/awardsdashboard.component';
-import { InterestsdashboardComponent } from './interestsdashboard/interestsdashboard.component';
+
+
 
 
 
@@ -66,8 +66,8 @@ import { InterestsdashboardComponent } from './interestsdashboard/interestsdashb
     SkillsdashboardComponent,
     WorkdashboardComponent,
     BannerdashboardComponent,
-    AwardsdashboardComponent,
-    InterestsdashboardComponent,
+ 
+    
     
    
   ],
