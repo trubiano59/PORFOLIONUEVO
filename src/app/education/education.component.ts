@@ -11,6 +11,7 @@ export class EducationComponent implements OnInit {
   education: any = [];
   //variable para dato
   nombre : string = '';
+isLogged: any;
 
   //3. se inyecta el servicio en el constructor
   constructor(private porfolioService: PorfolioService,) { }
