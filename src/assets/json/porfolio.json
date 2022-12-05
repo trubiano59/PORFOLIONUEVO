@@ -175,19 +175,30 @@
     "redes": [
         {
             "id": 1,
-            "icono": "fa-facebook"
+            "red":"facebook",
+            "link": "https://www.facebook.com", 
+            "icono": "fa-brands fa-facebook fa-xl"
         },
         {
             "id": 2,
-            "icono": "fa-linkedin"
+            "red":"linkedin",
+            "link": "https://www.linkedin.com/in/miguel-trubiano-83093229/", 
+            "icono": "fa-brands fa-linkedin fa-xl"
+            
         },
         {
             "id": 3,
-            "icono": "fa-github"
+            "red":"github",
+            "link": "https://www.github.com/", 
+            "icono": "fa-brands fa-github fa-xl"
+            
         },
         {
             "id": 4,
-            "icono": "fa-envelope"
+            "red":"login.live",
+            "link": "https://login.live.com/", 
+            "icono": "fa-solid fa-envelope fa-xl"
+            
         }
     ],
     "nombrefooter": "Miguel Angel Trubiano",
