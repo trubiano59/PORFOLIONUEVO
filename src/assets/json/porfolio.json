@@ -1,10 +1,13 @@
 {
-    "banner": "assets/img/ALPES SUIZOS.png",
-    "profileImage": "assets/img/profile.jpg",
-    "nombre": "Miguel Angel",
-    "apellido": "Trubiano",
-    "tituloPerfil": "Desarrollador Web Full Stack Jr",
-    "acerca_de_mi": "Deseo ganar experiencia en desarrollo/programación aplicando y expandiendo las aptitudes adquiridas, teniendo interes en trabajar en equipo para compartir y profundizar habilidades que complementen mis conocimientos de programación y como Front End Developer Junior realizando diferentes programas, para lo cual trato diariamente en mi tiempo libre de recopilar información de cursos, explorando los últimos avances tecnológicos en el mundo del desarrollo web front-end y back-end", 
+    "persona":{
+        "banner": "assets/img/ALPES SUIZOS.png",
+        "profileImage": "assets/img/profile.jpg",
+        "nombre": "Miguel Angel",
+        "apellido": "Trubiano",
+        "tituloPerfil": "Desarrollador Web Full Stack Jr",
+        "acerca_de_mi": "Deseo ganar experiencia en desarrollo/programación aplicando y expandiendo las aptitudes adquiridas, teniendo interes en trabajar en equipo para compartir y profundizar habilidades que complementen mis conocimientos de programación y como Front End Developer Junior realizando diferentes programas, para lo cual trato diariamente en mi tiempo libre de recopilar información de cursos, explorando los últimos avances tecnológicos en el mundo del desarrollo web front-end y back-end"
+    },
+    
     "educacion": [
         {
             "id": 1,
