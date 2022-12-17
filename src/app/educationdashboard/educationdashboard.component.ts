@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./educationdashboard.component.css']
 })
 export class EducationdashboardComponent implements OnInit {
+modoEditar: any;
 
   constructor() { }
 
